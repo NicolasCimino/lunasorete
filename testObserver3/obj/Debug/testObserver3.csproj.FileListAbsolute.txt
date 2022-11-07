@@ -1,0 +1,11 @@
+C:\Users\nico\Desktop\LPPA\testObserver3\bin\Debug\testObserver3.exe.config
+C:\Users\nico\Desktop\LPPA\testObserver3\bin\Debug\testObserver3.exe
+C:\Users\nico\Desktop\LPPA\testObserver3\bin\Debug\testObserver3.pdb
+C:\Users\nico\Desktop\LPPA\testObserver3\obj\Debug\testObserver3.csproj.AssemblyReference.cache
+C:\Users\nico\Desktop\LPPA\testObserver3\obj\Debug\testObserver3.csproj.SuggestedBindingRedirects.cache
+C:\Users\nico\Desktop\LPPA\testObserver3\obj\Debug\testObserver3.Form1.resources
+C:\Users\nico\Desktop\LPPA\testObserver3\obj\Debug\testObserver3.Properties.Resources.resources
+C:\Users\nico\Desktop\LPPA\testObserver3\obj\Debug\testObserver3.csproj.GenerateResource.cache
+C:\Users\nico\Desktop\LPPA\testObserver3\obj\Debug\testObserver3.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\LPPA\testObserver3\obj\Debug\testObserver3.exe
+C:\Users\nico\Desktop\LPPA\testObserver3\obj\Debug\testObserver3.pdb
